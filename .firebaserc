@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "fir-2ad56",
+    "development": "fir-2ad56",
+    "staging": "project-7dc51",
+    "staging ": "fir-2ad56"
+  },
+  "targets": {},
+  "etags": {}
+}
